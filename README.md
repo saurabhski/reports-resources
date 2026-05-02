@@ -4,6 +4,12 @@ A curated collection of Canadian government and security reports covering cyber 
 
 ---
 
+## National Security & Budget
+
+- [Protecting Canada's Sovereignty and Security](https://github.com/saurabhski/reports-resources/blob/main/Chapter%204_%20Protecting%20Canada's%20sovereignty%20and%20security%20_%20Budget%202025.pdf)
+- [CSIS Public Report 2025](https://github.com/saurabhski/reports-resources/blob/main/Public%20Report_EN_2025_DIGITAL.pdf)
+- [National Security Report — Volume 1](https://github.com/saurabhski/reports-resources/blob/main/report_volume_1.pdf)
+
 ## Cyber Security
 
 - [National Cyber Threat Assessment 2025–2026](https://github.com/saurabhski/reports-resources/blob/main/national-cyber-threat-assessment-2025-2026-e.pdf)
@@ -15,12 +21,6 @@ A curated collection of Canadian government and security reports covering cyber 
 
 - [Canada's AI Strategy Report](https://github.com/saurabhski/reports-resources/blob/main/AiStrategyReport_EN.pdf)
 - [Securing Canada's AI Advantage: A Foundational Blueprint](https://github.com/saurabhski/reports-resources/blob/main/Securing%20Canada's%20AI%20advantage_%20A%20foundational%20blueprint.pdf)
-
-## National Security & Budget
-
-- [Budget 2025: Protecting Canada's Sovereignty and Security](https://github.com/saurabhski/reports-resources/blob/main/Chapter%204_%20Protecting%20Canada's%20sovereignty%20and%20security%20_%20Budget%202025.pdf)
-- [CSIS Public Report 2025](https://github.com/saurabhski/reports-resources/blob/main/Public%20Report_EN_2025_DIGITAL.pdf)
-- [National Security Report — Volume 1](https://github.com/saurabhski/reports-resources/blob/main/report_volume_1.pdf)
 
 ## Finance & Risk
 
