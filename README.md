@@ -1,6 +1,6 @@
 # Canada Reports & Resources
 
-A curated collection of Canadian government and security reports covering cyber threats, AI strategy, national security, and fiscal policy.
+A curated collection of Canadian government and security reports covering cyber threats, AI strategy, national security and fiscal policy.
 
 ---
 
