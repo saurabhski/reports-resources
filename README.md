@@ -4,7 +4,7 @@ A curated collection of Canadian government and security reports covering cyber 
 
 ---
 
-## National Security & Budget
+## National Security
 
 - [Protecting Canada's Sovereignty and Security](https://github.com/saurabhski/reports-resources/blob/main/Chapter%204_%20Protecting%20Canada's%20sovereignty%20and%20security%20_%20Budget%202025.pdf)
 - [CSIS Public Report 2025](https://github.com/saurabhski/reports-resources/blob/main/Public%20Report_EN_2025_DIGITAL.pdf)
